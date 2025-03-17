@@ -45,3 +45,8 @@ Certifique-se de ter instalado:
 - Python 3.8+
 - Bibliotecas do projeto: `customtkinter`, `Pillow`, `sqlite3`
 
+![Image](https://github.com/user-attachments/assets/4ab6b580-f936-4957-bced-d5fffac487e5)
+
+![Image](https://github.com/user-attachments/assets/58b78d6c-c76a-4a39-8867-3cb048b8ebe6)
+
+![Image](https://github.com/user-attachments/assets/dfd70244-824d-4cdc-a614-31cc612f429c)
